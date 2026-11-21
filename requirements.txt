@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.7
+
+# Optional: only needed to run the .ipynb locally (not needed in Google Colab)
+# notebook
+# ipykernel
